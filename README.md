@@ -25,12 +25,12 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - Compativel com qualquer sistema operacional
 
 
-## ☕ Usando java-algoritmos
+## ☕ Usando python-algoritmos
 
 Para usar python-algoritmos, siga estas etapas:
 
 ```
-Clone o projeto: https://github.com/RobsonArcoleze/java-algoritmos
+Clone o projeto: https://github.com/RobsonArcoleze/python-algoritmos
 execute na IDE de sua preferência
 ```
 
@@ -38,7 +38,7 @@ execute na IDE de sua preferência
 
 ## 📫 Contribuindo para python-algoritmos
 
-Para contribuir com java-algoritmos, siga estas etapas:
+Para contribuir com python-algoritmos, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
